@@ -26,8 +26,8 @@
 
 <div align="center" dir="auto">
   <a href="https://github.com/bobjoe159">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=bobjoe159&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true&amp;title_color=8844EE&amp;icon_color=8844EE&amp;border_color=8844EE" style="max-width: 100%;" align="left">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bobjoe159&amp;layout=compact&amp;langs_count=7&amp;theme=dracula&amp;title_color=8844EE&amp;icon_color=8844EE&amp;border_color=8844EE" style="max-width: 100%;" align="right">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=CauaLoch9860&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true&amp;title_color=8844EE&amp;icon_color=8844EE&amp;border_color=8844EE" style="max-width: 100%;" align="left">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauaLoch9860&amp;layout=compact&amp;langs_count=7&amp;theme=dracula&amp;title_color=8844EE&amp;icon_color=8844EE&amp;border_color=8844EE" style="max-width: 100%;" align="right">
 </a>
 </div>
 <br>
